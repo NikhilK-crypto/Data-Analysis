@@ -1,2 +1,2 @@
-# Data-Science
-projects related to Data Science
+# Data Analysis 
+projects related to Data analysis
